@@ -1,0 +1,7 @@
+train: /content/train  # train images (relative to 'path') 128 images
+val: /content/val  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['Refrigerator','Water_Dispenser']  # class names
